@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" layout="LayeredLayout" layeredLayoutPreferredWidthMM="0.0" layeredLayoutPreferredHeightMM="0.0"  autolayout="true" uiid="btn" styles="font:native:MainBold native:MainBold; bgColor:feae23; alignment:center;" title="GuiComponent" scrollableY="true" name="GuiComponent">
+  <component type="Button" text="ok" styles="font:12.0mm native:MainBold native:MainBold; opacity:255; bgType:gradient_radial; bgImage:Check-Box_Press.png; alignment:center;" preferredSize="90.21164mm inherit" name="ok">
+    <layoutConstraint insets="auto 31.010796% 14.646767% auto" referenceComponents="-1 -1 -1 -1" referencePositions="0.0 0.0 0.0 0.0" />
+  </component>
+</component>
